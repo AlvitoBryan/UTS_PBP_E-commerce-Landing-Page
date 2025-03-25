@@ -14,7 +14,7 @@ import { SecondBanner, ThirdBanner } from "../../components/SecondBanner";
 
 const Homepage = () => {
     useEffect(() => {
-        document.title = "Homepage | videobelajar"
+        document.title = "Homepage | Alvito E-commerce"
     })
 
     return(

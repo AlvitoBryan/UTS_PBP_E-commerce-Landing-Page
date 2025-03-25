@@ -10,7 +10,7 @@ import { useNavigate } from 'react-router-dom';
 const Login = () => {
     const navigate = useNavigate();
     useEffect(() => {
-            document.title = "Login | videobelajar"
+            document.title = "Login | Alvito"
         })
     return(
         <>
